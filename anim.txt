@@ -123,7 +123,6 @@ for(k=174,c=0; c<1.04 && !WindowShouldClose(); k=174+452*c*(2-c), c+=0.04){
                             
                             
                                     
-                            
                             EndDrawing();
                             
                          
